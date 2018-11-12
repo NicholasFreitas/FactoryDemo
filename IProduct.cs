@@ -1,0 +1,6 @@
+﻿namespace FactoryDemo
+{
+    interface IProduct
+    {
+    }
+}
